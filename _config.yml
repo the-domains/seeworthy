@@ -1,7 +1,7 @@
 name: Seeworthy
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.26775
+layout_spectrum: 0.50334
+typography_spectrum: 0.65526
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0C0C0D'
-    - '#4B4130'
-    - '#FFFFF3'
-    - '#B4916E'
-    - '#1D5CFF'
-  brandStrength: 0.5
-  lightness: 0.6256853223312646
-  saturation: 0.9308702677953988
-  rhythmicContrast: 0.6216855477541685
+    - '#000000'
+    - '#fcdda4'
+    - '#96380b'
+    - '#ba8b3b'
+    - '#faa72a'
+  brandStrength: 0.625
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
